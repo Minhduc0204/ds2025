@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Nguyen Minh Duc
 * Student ID: 22BI13091
-* Student Group ID: Not-for-now
+* Student Group ID: 11 
